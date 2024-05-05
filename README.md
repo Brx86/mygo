@@ -1,0 +1,2 @@
+# mygo
+golang learning
